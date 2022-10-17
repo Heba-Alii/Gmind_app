@@ -1,1 +1,1 @@
-# GmindApp Native App
+# Gmind Native App
