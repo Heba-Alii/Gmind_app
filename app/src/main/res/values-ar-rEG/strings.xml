@@ -9,6 +9,6 @@
     <string name="age" translatable="false">العمر</string>
     <string name="password" translatable="false">كلمة سر</string>
     <string name="confirm_password" translatable="false">تأكيد كلمة السر</string>
-    <string name="register" translatable="false">تسجيل</string>
-    <string name="or_continue_with">________ إكمال تسجيل عن طريق _______</string>
+    <string name="register" translatable="false">إنشاء حساب</string>
+    <string name="or_continue_with">________ او إنشاء حساب عن طريق _______</string>
 </resources>
