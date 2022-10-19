@@ -2,13 +2,13 @@
 <resources>
     <string name="app_name">Gmind app</string>
     <string name="hi" translatable="false">مرحبا</string>
-    <string name="wlecome_register" translatable="false">سعيد لرؤيتك هنا\nللمرة الأولى</string>
+    <string name="wlecome_register" translatable="false">سعداء  لرؤيتك هنا\nللمرة الأولى</string>
     <string name="first_name" translatable="false">الاسم الاول</string>
     <string name="last_name" translatable="false">الاسم الاخير</string>
     <string name="email" translatable="false">البريد الالكتروني</string>
     <string name="age" translatable="false">العمر</string>
     <string name="password" translatable="false">كلمة سر</string>
-    <string name="confirm_password" translatable="false">تاكيد كلمة السر</string>
+    <string name="confirm_password" translatable="false">تأكيد كلمة السر</string>
     <string name="register" translatable="false">تسجيل</string>
-    <string name="or_continue_with">________اكمال تسجيل عن طريق _______</string>
+    <string name="or_continue_with">________ إكمال تسجيل عن طريق _______</string>
 </resources>
