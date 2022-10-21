@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Gmind app</string>
+
+    <string name="Hello">Hello Again!</string>
+    <string name="welcome">Welcome back you\'ve\nbeen missed! </string>
+    <string name="username">Enter username</string>
+    <string name="password">Password</string>
+    <string name="recovery_password">Recovery Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="continue_with">Or continue with</string>
+    <string name="not_member">Not a member?</string>
+    <string name="register_now">Register now</string>
+    <string name="poster_content_description">Poster</string>
+    <string name="description">Description</string>
+    <string name="description_content">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+
 </resources>

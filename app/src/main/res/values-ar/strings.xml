@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gmind app</string>
+    <string name="Hello">أهلا مجددا!</string>
+    <string name="welcome">مرحبًا بك مرة أخرى\nلقد افتقدناك</string>
+    <string name="username">ادخل اسم المستخدم</string>
+    <string name="password">كلمة السر</string>
+    <string name="recovery_password">نسيت كلمة السر؟</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="continue_with">أو سجل باستخدام</string>
+    <string name="not_member">لست عضوا؟</string>
+    <string name="register_now">سجل الان</string>
+    <string name="poster_content_description">ملصق</string>
+    <string name="description">الوصف</string>
+    <string name="description_content">لوريم إيبسوم(Lorem Ipsum) هو ببساطة نص شكلي (بمعنى أن الغاية هي الشكل وليس المحتوى) ويُستخدم في صناعات المطابع ودور النشر. كان لوريم إيبسوم ولايزال المعيار للنص الشكلي منذ القرن الخامس عشر عندما قامت مطبعة مجهولة برص مجموعة من الأحرف بشكل عشوائي أخذتها من نص، لتكوّن كتيّب بمثابة دليل أو مرجع شكلي لهذه الأحرف.</string>
+</resources>

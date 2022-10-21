@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "com.gmind.app-merged_res-29:/drawable_circle_button.xml.flat",
+        "source": "com.gmind.app-main-31:/drawable/circle_button.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.gmind.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.gmind.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/drawable_fav_selected.xml.flat",
+        "source": "com.gmind.app-main-31:/drawable/fav_selected.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.gmind.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.gmind.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/drawable_ic_play_arrow.xml.flat",
+        "source": "com.gmind.app-main-31:/drawable/ic_play_arrow.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.gmind.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/font_poppins_bold.ttf.flat",
+        "source": "com.gmind.app-main-31:/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/drawable_ic_pause.xml.flat",
+        "source": "com.gmind.app-main-31:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.gmind.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/drawable_software_developer_poster.xml.flat",
+        "source": "com.gmind.app-main-31:/drawable/software_developer_poster.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/drawable_ic_visibility_off.xml.flat",
+        "source": "com.gmind.app-main-31:/drawable/ic_visibility_off.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/drawable_fav_not_selected.xml.flat",
+        "source": "com.gmind.app-main-31:/drawable/fav_not_selected.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/drawable_google.png.flat",
+        "source": "com.gmind.app-main-31:/drawable/google.png"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.gmind.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.gmind.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.gmind.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.gmind.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.gmind.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/layout_activity_login.xml.flat",
+        "source": "com.gmind.app-main-31:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/drawable_sign_in_button.xml.flat",
+        "source": "com.gmind.app-main-31:/drawable/sign_in_button.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/drawable_ic_arrow_circle_right.xml.flat",
+        "source": "com.gmind.app-main-31:/drawable/ic_arrow_circle_right.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/drawable_rounded_input.xml.flat",
+        "source": "com.gmind.app-main-31:/drawable/rounded_input.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.gmind.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/layout_activity_description.xml.flat",
+        "source": "com.gmind.app-main-31:/layout/activity_description.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.gmind.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.gmind.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.gmind.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/drawable_ic_visibility.xml.flat",
+        "source": "com.gmind.app-main-31:/drawable/ic_visibility.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.gmind.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/drawable_facebook.png.flat",
+        "source": "com.gmind.app-main-31:/drawable/facebook.png"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.gmind.app-main-31:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.gmind.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/drawable_apple.png.flat",
+        "source": "com.gmind.app-main-31:/drawable/apple.png"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-29:/font_poppins_regular.ttf.flat",
+        "source": "com.gmind.app-main-31:/font/poppins_regular.ttf"
+    }
+]
