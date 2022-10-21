@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="active_color">#dd3e3e</color>
+    <color name="baby_blue">#2BFFDB</color>
+    <color name="black">#FF000000</color>
+    <color name="dark_blue">#2B42FF</color>
+    <color name="dark_gray">#5A5950</color>
+    <color name="in_active_color">#a0a0a0</color>
+    <color name="off_white">#F5F5F5</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name" translatable="false">Gmind app</string>
+    <string name="chat">Chat</string>
+    <string name="games">All Games in One Place</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="welcome">Welcome to GMind</string>
+    <style name="Theme.GmindApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

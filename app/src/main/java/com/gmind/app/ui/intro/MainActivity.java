@@ -1,8 +1,10 @@
-package com.gmind.app;
+package com.gmind.app.ui.intro;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.gmind.app.R;
 
 public class MainActivity extends AppCompatActivity {
 

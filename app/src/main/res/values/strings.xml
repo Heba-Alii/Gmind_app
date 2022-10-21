@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Gmind app</string>
+    <string name="app_name" translatable="false">Gmind app</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="welcome">Welcome to GMind</string>
+    <string name="chat">Chat</string>
+    <string name="games">All Games in One Place</string>
 </resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="register">إنشاء حساب</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="welcome">أهلاً بك في تطبيق GMind</string>
+    <string name="chat">الدردشة</string>
+    <string name="games">كل الألعاب في مكان واحد</string>
+</resources>
