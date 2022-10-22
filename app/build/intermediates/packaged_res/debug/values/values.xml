@@ -14,11 +14,14 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name" translatable="false">Gmind app</string>
-    <string name="chat">Chat</string>
-    <string name="games">All Games in One Place</string>
+    <string name="chat">Chat with your friends</string>
+    <string name="chat_desc">While not playing you can chat with your friends</string>
+    <string name="games">All you games in one app</string>
+    <string name="games_desc">Use the app to access all our education games and browse the new games too!</string>
     <string name="register">Register</string>
     <string name="sign_in">Sign In</string>
-    <string name="welcome">Welcome to GMind</string>
+    <string name="welcome">Welcome to GMind App</string>
+    <string name="welcome_desc">We provide 3D games , AR , VR and Animation to enhance the formal and informal education process</string>
     <style name="Theme.GmindApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>

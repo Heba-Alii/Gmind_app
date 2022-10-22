@@ -14,8 +14,10 @@ color teal_200
 color teal_700
 color white
 drawable all_games_in_one_place
+drawable btn_shape
 drawable chat
 drawable chats
+drawable chatts
 drawable ic_brightness_1_black_24dp
 drawable ic_brightness_1_grey_24dp
 drawable ic_launcher_background
@@ -27,8 +29,8 @@ font extra_bold
 font regular
 id Login_btn
 id indicator
-id lay_one
 id register_btn
+id textView
 id viewPager
 id welcome_image
 layout activity_main
@@ -40,10 +42,13 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
 string chat
+string chat_desc
 string games
+string games_desc
 string register
 string sign_in
 string welcome
+string welcome_desc
 style Theme.GmindApp
 xml backup_rules
 xml data_extraction_rules

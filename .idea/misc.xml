@@ -5,9 +5,10 @@
       <map>
         <entry key="..\:/GmindApplication/app/src/main/res/drawable-v24/ic_brightness_1_black_24dp.xml" value="0.134" />
         <entry key="..\:/GmindApplication/app/src/main/res/drawable-v24/ic_brightness_1_grey_24dp.xml" value="0.134" />
+        <entry key="..\:/GmindApplication/app/src/main/res/drawable/btn_shape.xml" value="0.1425" />
         <entry key="..\:/GmindApplication/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/GmindApplication/app/src/main/res/layout/activity_on_boarding.xml" value="0.20416666666666666" />
-        <entry key="..\:/GmindApplication/app/src/main/res/layout/fragment_walkthroughone.xml" value="0.203125" />
+        <entry key="..\:/GmindApplication/app/src/main/res/layout/fragment_walkthroughone.xml" value="0.22" />
         <entry key="..\:/GmindApplication/app/src/main/res/layout/fragment_walkthroughthree.xml" value="0.20416666666666666" />
         <entry key="..\:/GmindApplication/app/src/main/res/layout/fragment_walkthroughtwo.xml" value="0.20416666666666666" />
       </map>
