@@ -8,6 +8,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-main-34:\\layout\\fragment_walkthroughthree.xml"
     },
     {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-merged_res-32:\\drawable-v24_chat_with_people.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-main-34:\\drawable-v24\\chat_with_people.png"
+    },
+    {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-main-34:\\drawable\\ic_launcher_background.xml"
     },
@@ -28,6 +32,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-main-34:\\xml\\data_extraction_rules.xml"
     },
     {
+        "merged": "com.gmind.app-merged_res-32:/layout_fragment_walkthroughthree.xml.flat",
+        "source": "com.gmind.app-main-34:/layout/fragment_walkthroughthree.xml"
+    },
+    {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-merged_res-32:\\drawable-v24_all_games_in_one_place.jpg.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-main-34:\\drawable-v24\\all_games_in_one_place.jpg"
     },
@@ -46,6 +54,10 @@
     {
         "merged": "com.gmind.app-merged_res-32:/layout_activity_on_boarding.xml.flat",
         "source": "com.gmind.app-main-34:/layout/activity_on_boarding.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-32:/layout_fragment_walkthroughone.xml.flat",
+        "source": "com.gmind.app-main-34:/layout/fragment_walkthroughone.xml"
     },
     {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-merged_res-32:\\font_black.ttf.flat",
@@ -112,6 +124,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-main-34:\\font\\regular.ttf"
     },
     {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-merged_res-32:\\drawable-v24_gaming.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-main-34:\\drawable-v24\\gaming.png"
+    },
+    {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
@@ -128,8 +144,16 @@
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-main-34:\\font\\bold.ttf"
     },
     {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-merged_res-32:\\drawable-v24_welcome.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-main-34:\\drawable-v24\\welcome.png"
+    },
+    {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-merged_res-32:\\drawable_btn_shape.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-main-34:\\drawable\\btn_shape.xml"
+    },
+    {
+        "merged": "com.gmind.app-merged_res-32:/layout_fragment_walkthroughtwo.xml.flat",
+        "source": "com.gmind.app-main-34:/layout/fragment_walkthroughtwo.xml"
     },
     {
         "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.gmind.app-merged_res-32:\\drawable-v24_ic_brightness_1_black_24dp.xml.flat",

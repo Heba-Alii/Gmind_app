@@ -15,13 +15,13 @@ color teal_700
 color white
 drawable all_games_in_one_place
 drawable btn_shape
-drawable chat
-drawable chats
-drawable chatts
+drawable chat_with_people
+drawable gaming
 drawable ic_brightness_1_black_24dp
 drawable ic_brightness_1_grey_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable welcome
 drawable welcome_to_gmind
 font black
 font bold

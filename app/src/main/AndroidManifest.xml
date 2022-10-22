@@ -14,7 +14,8 @@
         android:theme="@style/Theme.GmindApp"
         tools:targetApi="31">
         <activity
-            android:name=".ui.intro.OnBoarding"
+            android:name=".ui.intro.ui.OnBoarding"
+            android:screenOrientation="portrait"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,7 +24,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ui.intro.MainActivity"
+            android:name=".ui.intro.ui.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

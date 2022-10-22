@@ -5,67 +5,63 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+
     android:background="@color/off_white"
-    tools:context=".ui.intro.OnBoarding">
+    tools:context=".ui.intro.ui.OnBoarding">
 
 
     <androidx.viewpager.widget.ViewPager
         android:id="@+id/viewPager"
         android:layout_width="match_parent"
-        android:layout_height="500dp"
+        android:layout_height="350dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        android:layout_marginBottom="20dp"
         app:layout_constraintTop_toTopOf="parent" />
 
     <me.relex.circleindicator.CircleIndicator
         android:id="@+id/indicator"
         android:layout_width="match_parent"
-        android:layout_height="30dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="40dp"
         android:paddingBottom="20dp"
         app:ci_drawable="@drawable/ic_brightness_1_black_24dp"
         app:ci_drawable_unselected="@drawable/ic_brightness_1_grey_24dp"
-        app:ci_height="5dp"
-        app:ci_width="5dp"
+        app:ci_height="10dp"
+        app:ci_width="10dp"
         app:layout_constraintEnd_toEndOf="@+id/viewPager"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="@+id/viewPager"
         app:layout_constraintTop_toBottomOf="@+id/viewPager" />
 
-
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/register_btn"
-        android:layout_width="150dp"
+        android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="50dp"
-        android:background="@color/dark_blue"
+
+        android:background="@drawable/btn_shape"
         android:fontFamily="@font/bold"
         android:gravity="center"
         android:text="@string/register"
-android:layout_marginTop="20dp"
         android:textAllCaps="false"
-        android:layout_marginBottom="20dp"
         android:textColor="@color/off_white"
-        app:layout_constraintBottom_toBottomOf="parent"
-
-        app:layout_constraintStart_toStartOf="@id/indicator"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/indicator" />
 
     <androidx.appcompat.widget.AppCompatButton
-
         android:id="@+id/Login_btn"
-        android:layout_width="150dp"
+        android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:layout_marginEnd="50dp"
-        android:background="@color/dark_blue"
+        android:background="@drawable/btn_shape"
         android:fontFamily="@font/bold"
         android:text="@string/sign_in"
         android:textAllCaps="false"
-        android:layout_marginStart="20dp"
         android:textColor="@color/off_white"
         app:layout_constraintBottom_toBottomOf="@+id/register_btn"
         app:layout_constraintEnd_toEndOf="@+id/indicator"
-        app:layout_constraintStart_toEndOf="@+id/register_btn"
         app:layout_constraintTop_toTopOf="@+id/register_btn" />
-        </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
 

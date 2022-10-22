@@ -2475,14 +2475,13 @@ drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable btn_shape
-drawable chat
-drawable chats
-drawable chatts
+drawable chat_with_people
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable gaming
 drawable ic_brightness_1_black_24dp
 drawable ic_brightness_1_grey_24dp
 drawable ic_clock_black_24dp
@@ -2541,6 +2540,7 @@ drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable welcome
 drawable welcome_to_gmind
 drawable white_radius
 font black
