@@ -45,7 +45,7 @@
         android:gravity="center"
         android:text="@string/register"
         android:textAllCaps="false"
-        android:textColor="@color/off_white"
+        android:textColor="@color/black"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/indicator" />
 
@@ -58,7 +58,7 @@
         android:fontFamily="@font/bold"
         android:text="@string/sign_in"
         android:textAllCaps="false"
-        android:textColor="@color/off_white"
+        android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="@+id/register_btn"
         app:layout_constraintEnd_toEndOf="@+id/indicator"
         app:layout_constraintTop_toTopOf="@+id/register_btn" />
