@@ -5,7 +5,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-
     android:background="@color/off_white"
     tools:context=".ui.intro.ui.OnBoarding">
 
@@ -29,6 +28,7 @@
         app:ci_drawable_unselected="@drawable/ic_brightness_1_grey_24dp"
         app:ci_height="10dp"
         app:ci_width="10dp"
+
         app:layout_constraintEnd_toEndOf="@+id/viewPager"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="@+id/viewPager"
@@ -36,31 +36,36 @@
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/register_btn"
-        android:layout_width="100dp"
+        android:layout_width="150dp"
         android:layout_height="wrap_content"
-        android:layout_marginStart="50dp"
-
-        android:background="@drawable/btn_shape"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="5dp"
+        android:background="@drawable/image_card"
         android:fontFamily="@font/bold"
         android:gravity="center"
         android:text="@string/register"
         android:textAllCaps="false"
-        android:textColor="@color/off_white"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toStartOf="@id/signin_btn"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/indicator" />
+        app:layout_constraintTop_toBottomOf="@+id/indicator"
+        app:layout_constraintVertical_chainStyle="packed" />
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/Login_btn"
-        android:layout_width="100dp"
+        android:id="@+id/signin_btn"
+        android:layout_width="150dp"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="50dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="20dp"
         android:background="@drawable/btn_shape"
         android:fontFamily="@font/bold"
         android:text="@string/sign_in"
         android:textAllCaps="false"
-        android:textColor="@color/off_white"
+        android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="@+id/register_btn"
-        app:layout_constraintEnd_toEndOf="@+id/indicator"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/register_btn"
         app:layout_constraintTop_toTopOf="@+id/register_btn" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

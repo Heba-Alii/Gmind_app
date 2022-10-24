@@ -6,6 +6,7 @@ color black
 color dark_blue
 color dark_gray
 color in_active_color
+color light_blue
 color off_white
 color purple_200
 color purple_500
@@ -21,15 +22,16 @@ drawable ic_brightness_1_black_24dp
 drawable ic_brightness_1_grey_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable image_card
 drawable welcome
 drawable welcome_to_gmind
 font black
 font bold
 font extra_bold
 font regular
-id Login_btn
 id indicator
 id register_btn
+id signin_btn
 id textView
 id viewPager
 id welcome_image
