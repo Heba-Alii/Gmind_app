@@ -6,7 +6,10 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
+    <color name="black_background">#0C0C0C</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="white_background">#F5F5F5</color>
+    <color name="blue_button">#2B42FF</color>
     <color name="off_white">#F5F5F5</color>
     <color name="dark_gray">#5A5950</color>
     <color name="dark_blue">#2B42FF</color>

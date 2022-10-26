@@ -1,5 +1,14 @@
 <resources>
     <string name="app_name" translatable="false">Gmind app</string>
+    <string name="hi" translatable="false">Hi</string>
+    <string name="wlecome_register" translatable="false">Glad to see you here\nfor first time</string>
+    <string name="first_name" translatable="false">first name</string>
+    <string name="last_name" translatable="false">last name</string>
+    <string name="email" translatable="false">email</string>
+    <string name="age" translatable="false">age</string>
+    <string name="password" translatable="false">password</string>
+    <string name="confirm_password" translatable="false">confirm password</string>
+    <string name="or_continue_with">________ or continue with _______</string>
     <string name="register">Register</string>
     <string name="sign_in">Sign In</string>
     <string name="welcome">Welcome to GMind App</string>
