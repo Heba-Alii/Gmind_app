@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.gmind.app-mergeDebugResources-31:/values-ar-rEG/values-ar-rEG.xml",
+            "map": [
+                {
+                    "source": "G:\\GmindApplication\\app\\src\\main\\res\\values-ar-rEG\\strings.xml",
+                    "from": {
+                        "startLines": "8,2,10,7,5,3,6,12,9,11,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "483,57,610,409,263,105,336,763,543,693,164",
+                        "endColumns": "58,46,81,72,71,57,71,83,65,68,97",
+                        "endOffsets": "537,99,687,477,330,158,403,842,604,757,257"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,161,243,316,388,446,518,602,668,737",
+                        "endColumns": "58,46,81,72,71,57,71,83,65,68,97",
+                        "endOffsets": "109,156,238,311,383,441,513,597,663,732,830"
+                    }
+                }
+            ]
+        }
+    ]
+}

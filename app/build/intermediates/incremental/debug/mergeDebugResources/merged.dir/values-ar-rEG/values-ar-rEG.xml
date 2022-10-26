@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age" translatable="false">العمر</string>
+    <string name="app_name">Gmind app</string>
+    <string name="confirm_password" translatable="false">تأكيد كلمة السر</string>
+    <string name="email" translatable="false">البريد الالكتروني</string>
+    <string name="first_name" translatable="false">الاسم الاول</string>
+    <string name="hi" translatable="false">مرحبا</string>
+    <string name="last_name" translatable="false">الاسم الاخير</string>
+    <string name="or_continue_with">________ او إنشاء حساب عن طريق _______</string>
+    <string name="password" translatable="false">كلمة سر</string>
+    <string name="register" translatable="false">إنشاء حساب</string>
+    <string name="wlecome_register" translatable="false">سعداء  لرؤيتك هنا\nللمرة الأولى</string>
+</resources>
