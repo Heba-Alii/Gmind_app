@@ -10,6 +10,7 @@ import android.view.View;
 
 import com.gmind.app.R;
 
+import com.gmind.app.RegisterActivity;
 import com.gmind.app.ui.intro.adapter.Adapter_walkthrough;
 
 import java.util.Timer;
@@ -37,7 +38,7 @@ public class OnBoarding extends AppCompatActivity {
         register.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(OnBoarding.this, MainActivity.class);
+                Intent intent = new Intent(OnBoarding.this, RegisterActivity.class);
                 startActivity(intent);
             }
         });
