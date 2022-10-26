@@ -8,6 +8,12 @@
     <color name="black">#FF000000</color>
     <color name="black_background">#0C0C0C</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="play_button">#FF5258</color>
+    <color name="poster_background">#FF9CA0</color>
+    <color name="login_background">#F5F5F5</color>
+    <color name="sign_in_button">#2B42FF</color>
+    <color name="divider">#7C7C7C</color>
     <color name="white_background">#F5F5F5</color>
     <color name="blue_button">#2B42FF</color>
     <color name="off_white">#F5F5F5</color>

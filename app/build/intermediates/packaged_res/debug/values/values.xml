@@ -26,31 +26,45 @@
     <color name="blue_button">#2B42FF</color>
     <color name="dark_blue">#2B42FF</color>
     <color name="dark_gray">#5A5950</color>
+    <color name="divider">#7C7C7C</color>
     <color name="in_active_color">#a0a0a0</color>
     <color name="light_blue">#B8E8FC</color>
+    <color name="login_background">#F5F5F5</color>
     <color name="off_white">#F5F5F5</color>
+    <color name="play_button">#FF5258</color>
+    <color name="poster_background">#FF9CA0</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
+    <color name="sign_in_button">#2B42FF</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <color name="white_background">#F5F5F5</color>
+    <string name="Hello">Hello Again!</string>
     <string name="age" translatable="false">age</string>
     <string name="app_name" translatable="false">Gmind app</string>
     <string name="chat">Chat with your friends</string>
     <string name="chat_desc">While not playing you can chat with your friends</string>
     <string name="confirm_password" translatable="false">confirm password</string>
+    <string name="continue_with">Or continue with</string>
+    <string name="description">Description</string>
+    <string name="description_content">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
     <string name="email" translatable="false">email</string>
     <string name="first_name" translatable="false">first name</string>
     <string name="games">All you games in one app</string>
     <string name="games_desc">Use the app to access all our education games and browse the new games too!</string>
     <string name="hi" translatable="false">Hi</string>
     <string name="last_name" translatable="false">last name</string>
+    <string name="not_member">Not a member?</string>
     <string name="or_continue_with">________ or continue with _______</string>
-    <string name="password" translatable="false">password</string>
+    <string name="password">Password</string>
+    <string name="poster_content_description">Poster</string>
+    <string name="recovery_password">Recovery Password</string>
     <string name="register">Register</string>
+    <string name="register_now">Register now</string>
     <string name="sign_in">Sign In</string>
+    <string name="username">Enter username</string>
     <string name="welcome">Welcome to GMind App</string>
     <string name="welcome_desc">We provide 3D games , AR , VR and Animation to enhance the formal and informal education process</string>
     <string name="wlecome_register" translatable="false">Glad to see you here\nfor first time</string>
@@ -69,5 +83,9 @@
         
         <item name="android:statusBarColor" ns1:targetApi="l">?attr/background</item>
         
+    </style>
+    <style name="circle_bottom">
+        <item name="cornerSizeBottomLeft">60%</item>
+        <item name="cornerSizeBottomRight">60%</item>
     </style>
 </resources>

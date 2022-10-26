@@ -1282,6 +1282,7 @@ color dim_foreground_disabled_material_dark
 color dim_foreground_disabled_material_light
 color dim_foreground_material_dark
 color dim_foreground_material_light
+color divider
 color error_color_material_dark
 color error_color_material_light
 color foreground_material_dark
@@ -1290,6 +1291,7 @@ color highlighted_text_material_dark
 color highlighted_text_material_light
 color in_active_color
 color light_blue
+color login_background
 color m3_appbar_overlay_color
 color m3_assist_chip_icon_tint_color
 color m3_assist_chip_stroke_color
@@ -1767,6 +1769,8 @@ color notification_action_color_filter
 color notification_icon_bg_color
 color notification_material_background_media_default_color
 color off_white
+color play_button
+color poster_background
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -1785,6 +1789,7 @@ color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
 color secondary_text_disabled_material_light
+color sign_in_button
 color switch_thumb_disabled_material_dark
 color switch_thumb_disabled_material_light
 color switch_thumb_material_dark
@@ -3146,14 +3151,19 @@ drawable btn_radio_on_to_off_mtrl_animation
 drawable btn_shape
 drawable buttonbackground
 drawable chat_with_people
+drawable circle_button
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable facebook
+drawable fav_not_selected
+drawable fav_selected
 drawable gaming
 drawable google
+drawable ic_arrow_back
+drawable ic_arrow_circle_right
 drawable ic_brightness_1_black_24dp
 drawable ic_brightness_1_grey_24dp
 drawable ic_clock_black_24dp
@@ -3167,6 +3177,10 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_pause
+drawable ic_play_arrow
+drawable ic_visibility
+drawable ic_visibility_off
 drawable image_card
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
@@ -3209,6 +3223,9 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable rounded_input
+drawable sign_in_button
+drawable software_developer_poster
 drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
@@ -3221,7 +3238,9 @@ font black
 font bold
 font extra_bold
 font poppins
+font poppins_bold
 font poppins_medium
+font poppins_regular
 font poppins_thin
 font regular
 id ALT
@@ -3307,6 +3326,7 @@ id animateToEnd
 id animateToStart
 id antiClockwise
 id anticipate
+id appleIcon
 id apple_sign_up
 id arc
 id asConfigured
@@ -3315,6 +3335,7 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
+id backArrow
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -3322,6 +3343,7 @@ id beginning
 id bestChoice
 id blocking
 id bottom
+id bottomGuideline
 id bounce
 id bounceBoth
 id bounceEnd
@@ -3379,6 +3401,10 @@ id decor_content_parent
 id default_activity_button
 id deltaRelative
 id dependency_ordering
+id descriptionBtn
+id descriptionContent
+id descriptionContentBox
+id descriptionText
 id design_bottom_sheet
 id design_menu_item_action_area
 id design_menu_item_action_area_stub
@@ -3392,6 +3418,7 @@ id disableIntraAutoTransition
 id disablePostScroll
 id disableScroll
 id disjoint
+id dividerBox
 id dragAnticlockwise
 id dragClockwise
 id dragDown
@@ -3421,8 +3448,10 @@ id enterAlwaysCollapsed
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
+id facebookIcon
 id facebook_sign_up
 id fade
+id favIcon
 id fill
 id fill_horizontal
 id fill_vertical
@@ -3449,6 +3478,7 @@ id give_us_a_review_landmine_text_1
 id give_us_a_review_landmine_text_2
 id glide_custom_view_target_tag
 id gone
+id googleIcon
 id google_sign_up
 id graph
 id graph_wrap
@@ -3457,6 +3487,7 @@ id grouping
 id groups
 id guideline
 id header_title
+id helloText
 id hi_text
 id hideable
 id home
@@ -3475,6 +3506,7 @@ id immediateStop
 id included
 id indicator
 id info
+id inputBox
 id invisible
 id inward
 id italic
@@ -3486,6 +3518,7 @@ id lastname_input_field
 id lastname_input_layout
 id layout
 id left
+id leftGuideline
 id leftToRight
 id legacy
 id line1
@@ -3493,6 +3526,7 @@ id line3
 id linear
 id listMode
 id list_item
+id loginBtn
 id masked
 id match_constraint
 id match_parent
@@ -3561,6 +3595,7 @@ id navigation_header_container
 id never
 id neverCompleteToEnd
 id neverCompleteToStart
+id newMemberBox
 id noScroll
 id noState
 id none
@@ -3582,6 +3617,8 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
+id passwordBox
+id passwordText
 id password_input_field
 id password_input_layout
 id password_toggle
@@ -3590,17 +3627,25 @@ id pathRelative
 id peekHeight
 id percent
 id pin
+id playButton
 id position
 id postLayout
+id posterBackgroundContainer
+id posterImage
+id posterLeftGuideline
+id posterRightGuideline
 id progress_circular
 id progress_horizontal
 id radio
 id ratio
+id recoveryText
 id rectangles
+id registerNow
 id register_btn
 id registerbutton
 id reverseSawtooth
 id right
+id rightGuideline
 id rightToLeft
 id right_icon
 id right_side
@@ -3626,6 +3671,7 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
+id secondOptionDivider
 id select_dialog_listview
 id selected
 id selection_type
@@ -3645,6 +3691,7 @@ id snackbar_text
 id snap
 id snapMargins
 id socStart
+id socialBox
 id south
 id spacer
 id special_effects_controller_view_tag
@@ -3711,6 +3758,7 @@ id titleDividerNoCustom
 id title_template
 id toggle
 id top
+id topGuideline
 id topPanel
 id touch_outside
 id transitionToEnd
@@ -3726,6 +3774,8 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id usernameBox
+id usernameText
 id vertical
 id vertical_only
 id viewPager
@@ -3737,6 +3787,7 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
+id welcomeText
 id welcome_image
 id welcome_text2
 id west
@@ -3840,6 +3891,8 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_description
+layout activity_login
 layout activity_main
 layout activity_on_boarding
 layout activity_register
@@ -3950,6 +4003,7 @@ layout text_view_without_line_height
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
+string Hello
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -3991,6 +4045,9 @@ string chat_desc
 string chip_text
 string clear_text_end_icon_content_description
 string confirm_password
+string continue_with
+string description
+string description_content
 string email
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
@@ -4076,6 +4133,7 @@ string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
 string mtrl_timepicker_confirm
+string not_member
 string or_continue_with
 string password
 string password_toggle_content_description
@@ -4083,10 +4141,14 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string poster_content_description
+string recovery_password
 string register
+string register_now
 string search_menu_title
 string sign_in
 string status_bar_notification_info_overflow
+string username
 string welcome
 string welcome_desc
 string wlecome_register
@@ -5149,6 +5211,7 @@ style Widget_MaterialComponents_Toolbar_PrimarySurface
 style Widget_MaterialComponents_Toolbar_Surface
 style Widget_MaterialComponents_Tooltip
 style Widget_Support_CoordinatorLayout
+style circle_bottom
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth

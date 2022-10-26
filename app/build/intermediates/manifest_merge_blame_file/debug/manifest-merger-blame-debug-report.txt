@@ -11,7 +11,7 @@
 9-->G:\GmindApplication\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->G:\GmindApplication\app\src\main\AndroidManifest.xml:6:5-50:19
+11-->G:\GmindApplication\app\src\main\AndroidManifest.xml:6:5-64:19
 12        android:allowBackup="true"
 12-->G:\GmindApplication\app\src\main\AndroidManifest.xml:7:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -69,51 +69,77 @@
 40            </intent-filter>
 41        </activity>
 42        <activity
-42-->G:\GmindApplication\app\src\main\AndroidManifest.xml:36:9-45:20
-43            android:name="com.gmind.app.RegisterActivity"
-43-->G:\GmindApplication\app\src\main\AndroidManifest.xml:37:13-45
-44            android:exported="true" >
-44-->G:\GmindApplication\app\src\main\AndroidManifest.xml:38:13-36
-45            <intent-filter>
-45-->G:\GmindApplication\app\src\main\AndroidManifest.xml:20:13-24:29
-46                <action android:name="android.intent.action.MAIN" />
-46-->G:\GmindApplication\app\src\main\AndroidManifest.xml:21:17-69
-46-->G:\GmindApplication\app\src\main\AndroidManifest.xml:21:25-66
-47
-48                <category android:name="android.intent.category.LAUNCHER" />
-48-->G:\GmindApplication\app\src\main\AndroidManifest.xml:23:17-77
-48-->G:\GmindApplication\app\src\main\AndroidManifest.xml:23:27-74
-49            </intent-filter>
-50        </activity>
-51
-52        <meta-data
-52-->G:\GmindApplication\app\src\main\AndroidManifest.xml:47:9-49:57
-53            android:name="preloaded_fonts"
-53-->G:\GmindApplication\app\src\main\AndroidManifest.xml:48:13-43
-54            android:resource="@array/preloaded_fonts" />
-54-->G:\GmindApplication\app\src\main\AndroidManifest.xml:49:13-54
-55
-56        <provider
-56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-57            android:name="androidx.startup.InitializationProvider"
-57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
-58            android:authorities="com.gmind.app.androidx-startup"
-58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
-59            android:exported="false" >
-59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
-60            <meta-data
-60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-61                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
-62                android:value="androidx.startup" />
-62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
-63            <meta-data
-63-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\lenovo\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-64                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-64-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\lenovo\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-65                android:value="androidx.startup" />
-65-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\lenovo\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-66        </provider>
-67    </application>
-68
-69</manifest>
+42-->G:\GmindApplication\app\src\main\AndroidManifest.xml:36:9-42:20
+43            android:name="com.gmind.app.DescriptionActivity"
+43-->G:\GmindApplication\app\src\main\AndroidManifest.xml:37:13-48
+44            android:exported="false" >
+44-->G:\GmindApplication\app\src\main\AndroidManifest.xml:38:13-37
+45            <meta-data
+45-->G:\GmindApplication\app\src\main\AndroidManifest.xml:39:13-41:36
+46                android:name="android.app.lib_name"
+46-->G:\GmindApplication\app\src\main\AndroidManifest.xml:40:17-52
+47                android:value="" />
+47-->G:\GmindApplication\app\src\main\AndroidManifest.xml:41:17-33
+48        </activity>
+49        <activity
+49-->G:\GmindApplication\app\src\main\AndroidManifest.xml:43:9-49:20
+50            android:name="com.gmind.app.LoginActivity"
+50-->G:\GmindApplication\app\src\main\AndroidManifest.xml:44:13-42
+51            android:exported="false" >
+51-->G:\GmindApplication\app\src\main\AndroidManifest.xml:45:13-37
+52            <meta-data
+52-->G:\GmindApplication\app\src\main\AndroidManifest.xml:39:13-41:36
+53                android:name="android.app.lib_name"
+53-->G:\GmindApplication\app\src\main\AndroidManifest.xml:40:17-52
+54                android:value="" />
+54-->G:\GmindApplication\app\src\main\AndroidManifest.xml:41:17-33
+55        </activity>
+56        <activity
+56-->G:\GmindApplication\app\src\main\AndroidManifest.xml:50:9-59:20
+57            android:name="com.gmind.app.RegisterActivity"
+57-->G:\GmindApplication\app\src\main\AndroidManifest.xml:51:13-45
+58            android:exported="true" >
+58-->G:\GmindApplication\app\src\main\AndroidManifest.xml:52:13-36
+59            <intent-filter>
+59-->G:\GmindApplication\app\src\main\AndroidManifest.xml:20:13-24:29
+60                <action android:name="android.intent.action.MAIN" />
+60-->G:\GmindApplication\app\src\main\AndroidManifest.xml:21:17-69
+60-->G:\GmindApplication\app\src\main\AndroidManifest.xml:21:25-66
+61
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->G:\GmindApplication\app\src\main\AndroidManifest.xml:23:17-77
+62-->G:\GmindApplication\app\src\main\AndroidManifest.xml:23:27-74
+63            </intent-filter>
+64        </activity>
+65
+66        <meta-data
+66-->G:\GmindApplication\app\src\main\AndroidManifest.xml:61:9-63:57
+67            android:name="preloaded_fonts"
+67-->G:\GmindApplication\app\src\main\AndroidManifest.xml:62:13-43
+68            android:resource="@array/preloaded_fonts" />
+68-->G:\GmindApplication\app\src\main\AndroidManifest.xml:63:13-54
+69
+70        <provider
+70-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+71            android:name="androidx.startup.InitializationProvider"
+71-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+72            android:authorities="com.gmind.app.androidx-startup"
+72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+73            android:exported="false" >
+73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+74            <meta-data
+74-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+75                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+76                android:value="androidx.startup" />
+76-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+77            <meta-data
+77-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\lenovo\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+78                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+78-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\lenovo\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+79                android:value="androidx.startup" />
+79-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\lenovo\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+80        </provider>
+81    </application>
+82
+83</manifest>

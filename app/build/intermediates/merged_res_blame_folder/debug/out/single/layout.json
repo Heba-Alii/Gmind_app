@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.gmind.app-mergeDebugResources-32:/layout/fragment_walkthroughtwo.xml",
+        "source": "com.gmind.app-main-35:/layout/fragment_walkthroughtwo.xml"
+    },
+    {
+        "merged": "com.gmind.app-mergeDebugResources-32:/layout/activity_description.xml",
+        "source": "com.gmind.app-main-35:/layout/activity_description.xml"
+    },
+    {
+        "merged": "com.gmind.app-mergeDebugResources-32:/layout/fragment_walkthroughone.xml",
+        "source": "com.gmind.app-main-35:/layout/fragment_walkthroughone.xml"
+    },
+    {
+        "merged": "com.gmind.app-mergeDebugResources-32:/layout/activity_on_boarding.xml",
+        "source": "com.gmind.app-main-35:/layout/activity_on_boarding.xml"
+    },
+    {
+        "merged": "com.gmind.app-mergeDebugResources-32:/layout/fragment_walkthroughthree.xml",
+        "source": "com.gmind.app-main-35:/layout/fragment_walkthroughthree.xml"
+    },
+    {
+        "merged": "com.gmind.app-mergeDebugResources-32:/layout/activity_login.xml",
+        "source": "com.gmind.app-main-35:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.gmind.app-mergeDebugResources-32:/layout/activity_register.xml",
+        "source": "com.gmind.app-main-35:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.gmind.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.gmind.app-main-35:/layout/activity_main.xml"
+    }
+]

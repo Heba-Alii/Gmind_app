@@ -8,6 +8,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+import com.gmind.app.LoginActivity;
 import com.gmind.app.R;
 
 import com.gmind.app.RegisterActivity;
